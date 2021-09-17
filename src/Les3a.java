@@ -5,6 +5,8 @@ public class Les3a {
         System.out.println("lll333aaa");
         System.out.println("lll333aaa");
 
+        System.out.println("hhhrrrffvv44");
+
     }
 
 }
