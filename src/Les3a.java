@@ -1,6 +1,19 @@
 public class Les3a {
 
     public static void main(String[] args) {
+
+        String rrr = "fgdsfgf";
+        if(rrr == "fgfg"){
+            //
+        } else if (rrr == "43653456"){
+            //
+        } else {
+
+        }
+
+        String  mmm = rrr == "66" ? "fdfd" : "ewtwte";
+
+
 //        System.out.println("lll333aaa");
 //        System.out.println("lll333aaa");
 //        System.out.println("lll333aaa");
@@ -25,8 +38,10 @@ public class Les3a {
         System.out.println("=-====");
         int a = 5;
 
-        Student vasya = new Student();
-        Student petya = new Student();
+//        Student vasya = new Student();
+//        Student petya = new Student();
+
+
 
 
 //        vasya.name = "Vasya";
@@ -35,7 +50,7 @@ public class Les3a {
 //
 //        System.out.println(vasya.getFullName());
 
-        vasya.go();
+//        vasya.go();
 
 
 
